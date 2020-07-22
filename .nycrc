@@ -1,0 +1,15 @@
+{
+  "cache": false,
+  "extension": [
+    ".ts"
+  ],
+  "exclude": [
+    "coverage/**",
+    "node_modules/**",
+    "**/*.d.ts",
+    "**/*.spec.ts"
+  ],
+  "sourceMap": true,
+  "all": true,
+  "instrument": true
+}
